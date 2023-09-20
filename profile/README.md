@@ -24,3 +24,21 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 - DEMO: https://ksef-demo.mf.gov.pl/web
 - PROD: https://ksef.mf.gov.pl/web
 
+## Java KSeF 
+
+https://github.com/alapierre/ksef-java-rest-client
+
+## GO KSeF
+
+https://github.com/alapierre/go-ksef-client
+https://github.com/alapierre/go-ksef-cli
+https://github.com/toudi/ksef
+
+## .NET KSeF
+
+https://github.com/gbbsoft/GbbKSeF
+https://github.com/tailored-apps/KSeF
+
+## Python KseF
+
+https://github.com/JakubSzwajka/ksef-python-client
