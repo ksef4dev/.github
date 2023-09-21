@@ -8,6 +8,12 @@
 
 English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/8803/broszura-informacyjna-struktury-logicznej-e-faktury-fa-1-wersja-angloj%C4%99zyczna.pdf
 
+# Webinars
+
+- https://www.youtube.com/watch?v=758GFdhaVFE
+- https://www.youtube.com/watch?v=dnBGO6IPtzA
+- https://www.youtube.com/watch?v=flPCer5-bm0
+
 ## Other information
 
 - https://4programmers.net/Forum/Nietuzinkowe_tematy/355933-krajowy_system_e_faktur
