@@ -51,4 +51,5 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 ## Python KseF
 
+- https://github.com/m32/ksef
 - https://github.com/JakubSzwajka/ksef-python-client
