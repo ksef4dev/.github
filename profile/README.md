@@ -14,9 +14,10 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 - https://www.youtube.com/watch?v=dnBGO6IPtzA
 - https://www.youtube.com/watch?v=flPCer5-bm0
 
-## Webinars 
+## Webinars, Podcasts etc
 
 - https://youtu.be/mqvjQDEgwyM?si=4lINESLHvLtdAzej
+- https://spotify.link/XwzooKBU6Db
 
 ## Other information
 
@@ -46,7 +47,7 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 ## .NET KSeF
 
-- https://github.com/gbbsoft/GbbKSeF
+- https://github.com/gbbsoft/GbbKSeF2
 - https://github.com/tailored-apps/KSeF
 
 ## Python KseF
