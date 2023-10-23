@@ -18,6 +18,7 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 - https://youtu.be/mqvjQDEgwyM?si=4lINESLHvLtdAzej
 - https://spotify.link/XwzooKBU6Db
+- https://youtu.be/OLg0QO2nBAg
 
 ## Other information
 
