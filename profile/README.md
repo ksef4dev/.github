@@ -28,6 +28,12 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 - https://4programmers.net/Forum/Nietuzinkowe_tematy/355933-krajowy_system_e_faktur
 
+## Invocice and UPO visualization
+
+- https://github.com/asoio/ksef-xslt (oryginal) and it fork https://github.com/ksef4dev/ksef-xslt
+- https://github.com/ksef4dev/ksef-api-metadata/tree/main/fa-schema
+- https://github.com/ksef4dev/ksef-fop (work in progress...)
+
 ## KSeF Envirnoment
 
 - TEST: https://ksef-test.mf.gov.pl/
