@@ -56,6 +56,11 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 - https://github.com/alapierre/go-ksef-cli
 - https://github.com/toudi/ksef
 
+## GOBL - opensource JSON format for global business documents
+
+- https://docs.gobl.org/quick-start/invoices
+- https://github.com/invopop/gobl.ksef/commits/main/
+
 ## .NET KSeF
 
 - https://github.com/gbbsoft/GbbKSeF2
