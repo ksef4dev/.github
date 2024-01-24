@@ -49,7 +49,7 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 ## Java KSeF 
 
 - https://github.com/alapierre/ksef-java-rest-client
-- https://github.com/alapierre/java-ksef-fa FA model and GOBL converter (work in progress)
+- https://github.com/alapierre/ksef-fa-java
 
 ## GO KSeF
 
@@ -60,7 +60,9 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 ## GOBL - open source JSON format for global business documents
 
 - https://docs.gobl.org/quick-start/invoices
-- https://github.com/invopop/gobl.ksef/commits/main/
+- https://github.com/invopop/gobl.ksef
+- https://github.com/alapierre/gobl.java
+- https://github.com/alapierre/gobl.java.ksef
 
 ## .NET KSeF
 
