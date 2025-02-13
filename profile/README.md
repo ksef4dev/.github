@@ -32,7 +32,7 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 - https://github.com/asoio/ksef-xslt (oryginal) and it fork https://github.com/ksef4dev/ksef-xslt
 - https://github.com/ksef4dev/ksef-api-metadata/tree/main/fa-schema
-- https://github.com/ksef4dev/ksef-fop (work in progress...)
+- https://github.com/ksef4dev/ksef-fop (production ready)
 
 ## KSeF Envirnoment
 
@@ -63,6 +63,10 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 - https://github.com/invopop/gobl.ksef
 - https://github.com/alapierre/gobl.java
 - https://github.com/alapierre/gobl.java.ksef
+
+## godss - XAdES signature in GO with PKCS#11 support
+
+- https://github.com/alapierre/godss
 
 ## .NET KSeF
 
