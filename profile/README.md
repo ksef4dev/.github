@@ -2,6 +2,7 @@
 
 ## Ministery of Finance Links
 
+- https://github.com/CIRFMF/ksef-docs
 - https://ksef.podatki.gov.pl/
 - https://ksef.podatki.gov.pl/media/cq3laefg/podrecznik-ksef-2-0-cz-i-rozpoczecie-korzystania-z-ksef.pdf
 - https://ksef.podatki.gov.pl/media/3zidazbw/podrecznik-ksef-2-0-cz-ii-wystawianie-i-otrzymywane-faktur-w-ksef.pdf
@@ -57,8 +58,9 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 ## Java KSeF 
 
-- https://github.com/alapierre/ksef-java-rest-client
+- [KSeF 2.0 Java Rest Client - forked and just working](https://github.com/alapierre/ksef-client-java-mf-fork)
 - https://github.com/alapierre/ksef-fa-java
+- https://github.com/CIRFMF/ksef-client-java (official KSeF SDK - no comments)
 
 ## GO KSeF
 
