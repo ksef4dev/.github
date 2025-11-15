@@ -3,6 +3,13 @@
 ## Ministery of Finance Links
 
 - https://ksef.podatki.gov.pl/
+- https://ksef.podatki.gov.pl/media/cq3laefg/podrecznik-ksef-2-0-cz-i-rozpoczecie-korzystania-z-ksef.pdf
+- https://ksef.podatki.gov.pl/media/3zidazbw/podrecznik-ksef-2-0-cz-ii-wystawianie-i-otrzymywane-faktur-w-ksef.pdf
+- https://ksef.podatki.gov.pl/media/ruthftwo/podrecznik-ksef-2-0-cz-iii-dodatkowe-funkcjonalnosci-ksef.pdf
+- https://ksef.podatki.gov.pl/media/c4zo3glh/podrecznik-ksef-2-0-cz-iv-ksef-w-jst-i-gv-oraz-pozostale-modele-uprawnien.pdf
+- https://ksef.podatki.gov.pl/media/0ivha0ua/broszura-informacyjna-dotyczaca-struktury-logicznej-fa-3.pdf
+- https://ksef.podatki.gov.pl/media/0iafuqe5/podrecznik-uzytkownika-modulu-certyfikatow-i-uprawnien-mcu.pdf
+- https://ksef.podatki.gov.pl/media/iipln3md/tryby-wystawiania-faktur-tabela-wersja-12.pdf
 - https://www.podatki.gov.pl/media/9512/broszura-informacyjna-struktury-logicznej-fa-2.pdf
 - https://www.podatki.gov.pl/ksef/baza-wiedzy-ksef/pliki-do-pobrania-ksef/
 - https://www.podatki.gov.pl/ksef/baza-wiedzy-ksef/uprawnienia-ksef/
