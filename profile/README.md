@@ -2,6 +2,7 @@
 
 ## Ministery of Finance Links
 
+- https://ksef.podatki.gov.pl/
 - https://www.podatki.gov.pl/media/9512/broszura-informacyjna-struktury-logicznej-fa-2.pdf
 - https://www.podatki.gov.pl/ksef/baza-wiedzy-ksef/pliki-do-pobrania-ksef/
 - https://www.podatki.gov.pl/ksef/baza-wiedzy-ksef/uprawnienia-ksef/
@@ -42,9 +43,10 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 ## Web application
 
-- TEST: https://ksef-test.mf.gov.pl/web
-- DEMO: https://ksef-demo.mf.gov.pl/web
-- PROD: https://ksef.mf.gov.pl/web
+- TEST (KSeF 2.0): [https://ksef-test.mf.gov.pl/web](https://web2te-ksef.mf.gov.pl/)
+- DEMO (KSeF 2.0): [https://ksef-demo.mf.gov.pl/web](https://web2tr-ksef.mf.gov.pl/web/)
+- PROD (KSeF 1.0): https://ksef.mf.gov.pl/web
+- MCU: https://mcu.mf.gov.pl/web
 
 ## Java KSeF 
 
