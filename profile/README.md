@@ -81,8 +81,10 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 ## .NET KSeF
 
+- https://github.com/CIRFMF/ksef-client-csharp (official C# KSeF client)
 - https://github.com/gbbsoft/GbbKSeF2
 - https://github.com/tailored-apps/KSeF
+
 
 ## Python KseF
 
