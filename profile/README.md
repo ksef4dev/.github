@@ -51,8 +51,8 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 ## Web application
 
-- TEST (KSeF 2.0): [https://ksef-test.mf.gov.pl/web](https://web2te-ksef.mf.gov.pl/)
-- DEMO (KSeF 2.0): [https://ksef-demo.mf.gov.pl/web](https://web2tr-ksef.mf.gov.pl/web/)
+- TEST (KSeF 2.0): https://web2te-ksef.mf.gov.pl
+- DEMO (KSeF 2.0): https://web2tr-ksef.mf.gov.pl
 - PROD (KSeF 1.0): https://ksef.mf.gov.pl/web
 - MCU: https://mcu.mf.gov.pl/web
 
