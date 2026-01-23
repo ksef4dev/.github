@@ -45,16 +45,16 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 
 ## KSeF Envirnoment
 
-- TEST: https://ksef-test.mf.gov.pl/
-- DEMO: https://ksef-demo.mf.gov.pl/
-- PROD: https://ksef.mf.gov.pl/
+- TEST: https://api-test.ksef.mf.gov.pl
+- DEMO: https://api-demo.ksef.mf.gov.pl
+- PROD: https://api.ksef.mf.gov.pl
 
 ## Web application
 
-- TEST (KSeF 2.0): https://web2te-ksef.mf.gov.pl
-- DEMO (KSeF 2.0): https://web2tr-ksef.mf.gov.pl
-- PROD (KSeF 1.0): https://ksef.mf.gov.pl/web
-- MCU: https://mcu.mf.gov.pl/web
+- TEST (KSeF 2.0): https://ap-test.ksef.mf.gov.pl
+- DEMO (KSeF 2.0): https://ap-demo.ksef.mf.gov.pl
+- PROD (KSeF 1.0): https://ap.ksef.mf.gov.pl (starting at at 01.02.2026)
+- MCU: https://mcu.mf.gov.pl/web (will stop working on 26.01.2026!)
 
 ## Java KSeF 
 
@@ -67,6 +67,7 @@ English (out of date) documentation for FA (1) https://www.podatki.gov.pl/media/
 - https://github.com/alapierre/go-ksef-client
 - https://github.com/alapierre/go-ksef-cli
 - https://github.com/toudi/ksef
+- https://github.com/alapierre/ksef-qr-generator
 
 ## GOBL - open source JSON format for global business documents
 
